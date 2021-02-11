@@ -12,7 +12,7 @@ using RvtView = Autodesk.Revit.DB.View;
 
 namespace PatternForm
 {
-    public partial class  PatternForm : System.Windows.Forms.Form
+    public partial class  PatternFormClass : System.Windows.Forms.Form
     {
         UIDocument docUI;       
         Document doc;
